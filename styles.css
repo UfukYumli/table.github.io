@@ -1,0 +1,39 @@
+.title1 {
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+    top: 40px;
+}
+
+.title2 {
+    text-align: center;
+}
+
+.title3 {
+    text-align: center;
+
+
+}
+
+.table1 {
+    position: relative;
+    left: 500px;
+    border: 1px solid purple;
+}
+
+.table2 {
+    position: relative;
+    left: 500px;
+    border: 2px solid brown;
+
+
+}
+
+.thead1 {
+    background-color: #F5F5DC;
+}
+
+.thead2 {
+
+    background-color: rgb(143, 188, 143);
+}
